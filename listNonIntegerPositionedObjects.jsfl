@@ -1,7 +1,7 @@
 
 /*
 
-this script lists up non-integer positioned elements on a timeline.
+this script lists down non-integer positioned elements on a timeline.
 
 reference
 http://help.adobe.com/ja_JP/flash/cs/extend/index.html
